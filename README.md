@@ -9,4 +9,4 @@ Step 2: If both conditions evaluate to true, then console.log() the string 'time
 
 Step 3: After you run the code, play around with the || operator. 
 
-
+Note: I tried using the ! operator, but the code kept coming up in error so I just use the || operator instead. 
